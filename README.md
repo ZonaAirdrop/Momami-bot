@@ -12,7 +12,8 @@
 
 ### 1. Clone the Repository
 ```bash
-g
+git clone https://github.com/ZonaAirdrop/Momami-bot.git
+cd Momami-bot
 ````
 
 ### 2. Install Python Dependencies
